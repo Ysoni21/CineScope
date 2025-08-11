@@ -1,12 +1,24 @@
-# React + Vite
+🎬 CineScope — Explore Movies & TV Shows
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CineScope is a sleek and responsive movie and TV show explorer built with React and the TMDb API.It allows users to search for titles, apply filters, and view detailed information — all in one clean interface.
 
-Currently, two official plugins are available:
+🔍 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Search by title for movies and TV shows
 
-## Expanding the ESLint configuration
+Filter results by genre, year, and language
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clickable results to view more details
+
+Responsive design for mobile, tablet, and desktop
+
+Homepage link to quickly return to trending titles
+
+🛠 Built With
+
+React + Vite — Frontend framework & build tool
+
+TMDb API — Movie & TV show data
+
+CSS — Custom, responsive styling
+
