@@ -4,7 +4,7 @@ import FilterBar from "./components/FilterBar";
 import "./styles/global.css";
 
 const BASE_IMAGE_URL = "https://image.tmdb.org/t/p/w500";
-const API_KEY = "ff013f0c0f8781219667ba4d5bb54437";
+const API_KEY = "Enter your Api key here";
 
 function App() {
   const [movies, setMovies] = useState([]);
